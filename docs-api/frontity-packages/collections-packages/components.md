@@ -201,7 +201,7 @@ External JavaScript file:
 import Script from "@frontity/components/script";
 
 const MyComponent = () => (
-    <Script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js />
+    <Script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" />
 );
 ```
 
